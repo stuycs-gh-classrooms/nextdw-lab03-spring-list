@@ -76,7 +76,7 @@ class OrbList {
 
     Remove the element at the front of the list, i.e.
     after this method is run, the former second element
-    should not be the first (and so on).
+    should now be the first (and so on).
     =========================*/
   void removeFront() {
 
